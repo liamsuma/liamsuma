@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on an OCR project with integration of Azure Service Bus. 
 - 🌱 I’m currently learning Go
 
+__Social__
+
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/su-li-5533552b)](http://linkedin.com/in/su-li-5533552b)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamsuma&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
