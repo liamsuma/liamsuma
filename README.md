@@ -7,9 +7,7 @@ __Social__
 
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/su-li-5533552b)](http://linkedin.com/in/su-li-5533552b)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamsuma&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamsuma&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamsuma&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamsuma&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
