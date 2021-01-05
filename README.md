@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Su Li. I am a data analyst working for a Fintech startup company in NYC. Welcome to my Github page. 
+### My name is Su Li. I am a quantitative data analyst working for a hedge fund in NYC. Welcome to my Github page. 
 - 🔭 I’m currently working on an OCR project with integration of Azure Service Bus. 
 - 🌱 I’m currently learning Go
 
