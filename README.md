@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Su Li. I am a quantitative data analyst working for a hedge fund in NYC.
+### My name is Su. I am a quantitative data analyst working for a hedge fund in NYC.
 - 🔭 I’m currently working on an OCR project with integration of Azure Service Bus. 
 - 🌱 I’m currently learning Go
 
