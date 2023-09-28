@@ -1,7 +1,5 @@
 ### Hi there 👋 
-### My name is Su. I am a Quantitative Data Analyst working for a hedge fund in NYC.
-- 🔭 I’m currently working on multiple projects in Python. 
-- 🌱 I’m currently learning Go
+### My name is Su.
 
 __Social__
 
